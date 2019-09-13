@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	}
+h1 {
+    font-family: "verdana", sans-serif;
+    font-size: 3.5em;
+    text-align: center;
+    color: white;
+}
+.bio {
+    font-family: "verdana", sans-serif;
+    font-size: 1em;
+    text-align: center;
+    color: white;
+}
+
