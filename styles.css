@@ -34,34 +34,34 @@ div#myPhoto p {
     font-size: 1.3em;
     font-style: bold;
 }
-div#myBio {
+div#myJobBio {
     top: 50px;
     padding: 20px;
 }
-div#myBio h3{
+div#myJobBio h3{
     font-family: "geneva", sans-serif;
     font-size: 1.5em;
     text-align: center;
     font-weight: 900;
 }
-div#myBio h5 {
+div#myJobBio h5 {
     font-family: "geneva", sans-serif;
     font-size: 1.1em;
     font-style: italic;
     text-align: center;
     color: rgb(108, 74, 165);
 }
-div#myBio p {
+div#myJobBio p {
     font-family: "geneva", sans-serif;
 }
-div#myBio ul {
+div#myJobBio ul {
     padding-bottom: 50px;
     font-family: "geneva", sans-serif;
     border-bottom: double;
     border-bottom-color: grey;
     list-style-type: square;
 }
-div#myBio p.descHeader {
+div#myJobBio p.descHeader {
     font-weight: 900;
 }
 
