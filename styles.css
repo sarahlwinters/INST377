@@ -4,7 +4,7 @@ html, body {
 }
 #myName {
     padding: 50px 0;
-    background-color: black;
+    background-image: linear-gradient(to bottom right, rgb(29, 24, 99), rgb(154, 100, 204));
     height: 11em;
     width: 100%;
 }
@@ -48,7 +48,7 @@ div#myBio h5 {
     font-size: 1.1em;
     font-style: italic;
     text-align: center;
-    color: rgb(143, 68, 68);
+    color: rgb(108, 74, 165);
 }
 div#myBio p {
     font-family: "geneva", sans-serif;
